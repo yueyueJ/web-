@@ -5,7 +5,7 @@ import time
 def generate_web_page(prompt, max_retries=3):
     # API配置
     openai.api_base = "https://openai.api2d.net/v1"
-    openai.api_key = "fk233045-F2OMQWphEj5i8TYleXZ8FcKpl8n5VGSp"  # 请替换实际密钥
+    openai.api_key = "fk88888888888" #请替换实际密钥
 
     # 模型参数优化
     config = {
